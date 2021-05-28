@@ -1,5 +1,7 @@
 # In-app JWT Generator
-JWT generator for In-app
+JWT generator for In-app. It will generate 2 type of JWT
+1. Application JWT (You need to provide application, apiKey, and apiSecret)
+2. User JWT
 
 There are 3 components for this
 - Website: [https://github.com/nexmo-se/in-app-web](https://github.com/nexmo-se/in-app-web)
